@@ -1,0 +1,17 @@
+﻿Build started 2012/9/25 下午 05:02:32.
+     1>Project "D:\work\gap_verification\gap_verification\gap_verification.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\gap_verification.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         gap_verification.vcxproj -> D:\work\gap_verification\Release\gap_verification.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\gap_verification.unsuccessfulbuild".
+         Touching "Release\gap_verification.lastbuildstate".
+     1>Done Building Project "D:\work\gap_verification\gap_verification\gap_verification.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
